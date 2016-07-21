@@ -1,2 +1,1 @@
-# clocktimer
-Sample  clocktimer
+Boilerplate React App
